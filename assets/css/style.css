@@ -1,0 +1,12 @@
+#header_bar {
+    min-height: 80px;
+    background: #006341;
+}
+
+#logo {
+    width:50px;
+}
+
+.social-media {
+    font-size: 30px;
+}
